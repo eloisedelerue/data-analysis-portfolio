@@ -1,8 +1,6 @@
 # Data Analysis Portfolio
 
-Here are a few of my (very serious) past projects.
-
-
+Here are a few of my (very serious) past projects. Please note that most of the results are not significant. These projects are more interesting for the methodology.
 
 ### :art: [Art Students Sociology](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/art-students-sociology)
 A data analysis carried out from a questionnaire distributed to art students to determine whether their artistic practices are influenced by their social background.

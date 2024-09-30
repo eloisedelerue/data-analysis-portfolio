@@ -6,7 +6,7 @@ Here are a few of my (very serious) past projects.
 A data analysis carried out from a questionnaire distributed to art students to determine whether their artistic practices are influenced by their social background.
 Since the questionnaire did not receive many responses, the results are not very interesting. It is more interesting to consult the modelling of the problem.
 
-### :meat_on_bone: [Cannibalism and Democraty](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/cannibalism-and-democracy)
+### :meat_on_bone: [Cannibalism and Democracy](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/cannibalism-and-democracy)
 A data analysis that studies at whether a country's regime has an influence on cannibalism.
 
 ### :ocean: [Flooding and Natation](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/flooding-and-natation)

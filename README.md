@@ -2,7 +2,7 @@
 
 Here are a few of my (very serious) past projects.
 
-### Art Students Sociology
+### [Art Students Sociology](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/art-students-sociology)
 A data analysis carried out from a questionnaire distributed to art students to determine whether their artistic practices are influenced by their social background.
 
 ### Cannibalism and Democraty

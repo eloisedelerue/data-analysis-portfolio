@@ -6,7 +6,7 @@ Here are a few of my (very serious) past projects.
 
 ### :art: [Art Students Sociology](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/art-students-sociology)
 A data analysis carried out from a questionnaire distributed to art students to determine whether their artistic practices are influenced by their social background.
-Since the questionnaire did not receive many responses, the results are not very interesting. It is more interesting to consult the modelling of the problem.
+Since the questionnaire did not receive many responses, the results are not very interesting; however, the modelling of the problem might be interesting.
 
 
 ### :meat_on_bone: [Cannibalism and Democracy](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/cannibalism-and-democracy)

@@ -12,7 +12,7 @@ A descriptive analysis that studies at whether a country's regime has an influen
 A descriptive analysis that investigates the link between GDP, flooding and a country's Olympic swimming medals.
 
 ### :headstone: [Kenny's Deaths](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/kenny-s-deaths)
-A descriptive analysis that explores whether the multiple deaths of Kenny's character in South Park truly reflect the fears of American society.
+A descriptive analysis that explores whether the multiple deaths of Kenny's character in _South Park_ truly reflect the fears of American society.
 Please note that the report is missing, and will be added soon.
 
 ### :books: [Lightnovel Collection](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/lightnovels-collection)

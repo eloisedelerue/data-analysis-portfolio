@@ -17,3 +17,6 @@ Please note that the report is missing, and will be added soon.
 
 ### :books: [Lightnovel Collection](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/lightnovels-collection)
 A programme written for the purpose of collecting information about lightnovel works from the [lightnovelworld](https://www.lightnovelworld.com/hub_29071230#:~:text=Light%20Novel%20World%20is%20a%20very%20special%20platform%20where%20you) website.
+
+### :ship: Titanic
+A predictive analysis 

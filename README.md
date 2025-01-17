@@ -20,3 +20,6 @@ A programme written for the purpose of collecting information about lightnovel w
 
 ### :ship: [Titanic](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/titanic)
 A predictive analysis that predicts a Titanic passenger's survival based on their data. The aim was to test different methods. Please note that the report is missing.
+
+### Tonality and Pitch
+A descriptive analysis that studies whether native language influences pitch discrimination.

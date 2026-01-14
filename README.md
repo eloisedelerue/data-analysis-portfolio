@@ -1,3 +1,5 @@
+/!\ Hasn't been updated in a while! But will soon.
+
 # Data Analysis Portfolio
 
 Here are a few of my (very serious) past projects. Please note that most of the results are not significant. These projects are more interesting for their methodology.
